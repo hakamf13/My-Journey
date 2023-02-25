@@ -1,6 +1,10 @@
 # My-Journey
 My journey about my life, my path, my progress to explore a world of programming
 
+
+**Important*
+Progress Report Format -> [Date] [Module Name] -> [Sub Modul Name]
+
 February, 21 2023
 --
 - Learn "Get Started with Programming Fundamentals to Become a Software Developer" Class by 50%
